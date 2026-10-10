@@ -1,0 +1,6 @@
+{
+  "name": "COVID-19 Global Data Explorer",
+  "description": "Interactive hierarchical visualization of COVID-19 cases, deaths, recoveries, vaccination statistics, time-series trends, and choropleth geographic maps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
